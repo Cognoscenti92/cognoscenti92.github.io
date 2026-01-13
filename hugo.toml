@@ -1,6 +1,6 @@
-baseURL = 'https://dtu1141b.github.io/'
+baseURL = 'https://cognoscenti92.github.io/'
 languageCode = 'en-us'
-title = 'Dhaval Bothra'
+title = 'Nihar Maheshwari'
 enableRobotsTXT = true
 theme = 'obsidian-hugo-texify3'
 
@@ -28,9 +28,9 @@ defaultMarkdownHandler = "goldmark"
           block = [['\[', '\]'], ['$$', '$$']]
           inline = [['\(', '\)'], ['$', '$']]
 [params]
-  title = "Dhaval Bothra"
-  description = "If we keep holding onto yesterday, what are we going to be tomorrow?"
-  keywords = ["dhaval", "bothra", "dtu1141b", "bits", "bits-pilani", "iiit-h", "birla institute of technology and science, pilani", "ICPC", "competitive programming", "optimization", "performance", "algorithms", "finance", "math", "c++", "cpp", "research", "quant", "finance", "ml", "deep learning", "reinforcement learning", "theory"]
+  title = "Nihar Maheshwari"
+  description = "I love to learn all kinds of stuff; math, programming, art, design, basically everything!"
+  keywords = ["nihar", "maheshwari" , "cognoscenti", "bits", "bits-pilani", "birla institute of technology and science, pilani", "ICPC", "competitive programming", "optimization", "performance", "algorithms", "finance", "math", "c++", "cpp", "research", "quant", "finance", "ml", "deep learning", "reinforcement learning", "theory"]
   customCSS = ["css/images.css"]
   customJS = [
     "https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js",
