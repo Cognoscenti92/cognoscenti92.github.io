@@ -1,4 +1,4 @@
-# [Kishore Kumar](https://akcube.github.io)
+# [Nihar Maheshwari](https://akcube.github.io)
 
 [![Deploy Hugo site to Pages](https://github.com/akcube/akcube.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/akcube/akcube.github.io/actions/workflows/hugo.yml)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fakcube.github.io&label=akcube.github.io)](https://akcube.github.io)
